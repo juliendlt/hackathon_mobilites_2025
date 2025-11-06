@@ -37,49 +37,48 @@ Les partenaires sont les organisations qui ont souhaité être associées au Hac
 Les candidat·e·s sont les personnes qui postulent pour participer au Hackathon. Ces personnes restent candidates tant qu’elles n’ont pas reçu la confirmation de leur sélection.
 
 **Participant·e·s**  
-Les Participant·e·s sont les personnes qui ont été sélectionnées pour participer au Hackathon. Les Participant·e·s participent au Hackathon de façon bénévole ou dans le cadre de leur emploi en accord avec leur employeur en restant rémunérées par leur employeur.
+Les Participant·e·s sont les personnes qui ont été sélectionnées pour participer au Hackathon. Les Participant·e·s prennent part au Hackathon de façon bénévole ou dans le cadre de leur emploi en accord avec leur employeur en restant rémunérées par leur employeur.
 
 ### **1.2 Objectif du Hackathon Mobilités 2025**
 
 Île-de-France Mobilités place ce hackathon dans la continuité de ses programmes d’innovation. Les solutions les plus pertinentes viendront alimenter son offre de service IA et Data à destination des usagers et de ses partenaires. 
 
-À titre d’exemple, Île-de-France Mobilités a lancé le développement d’un Chatbot, qui permet aux usagers d’interroger naturellement les réponses contenues dans la riche FAQ du site internet. Les ressources techniques qui ont permis de construire ce Chatbot FAQ feront partie des outils mis à la disposition des Participant·e·s pour répondre aux différents défis.  
-L'objectif est de faire émerger des idées et des prototypes pour explorer les usages et les limites dans le domaine de la mobilité. 
+L'objectif est de faire émerger des idées et des prototypes pour explorer les usages et les limites dans le domaine de la mobilité.
 
 ### **1.3 Défis du Hackathon Mobilités 2025**
 
-Île-de-France Mobilités a ainsi formulé plusieurs défis et mettra à la disposition des candidat·e·s  des données et ressources adaptées.
+Île-de-France Mobilités a ainsi formulé plusieurs défis et mettra à la disposition des candidat·e·s des données et ressources adaptées.
 
-* **Défi 1** \- Encourager la pratique du vélo, les mobilités actives et l’intermodalité  
-* **Défi 2** \- Aider les entreprises à décarboner les mobilités de leurs salariés  
-* **Défi 3** \- Créer des outils d’analyses des mobilités pour les collectivités franciliennes  
-* **Défi 4** \- Améliorer le confort et l’accessibilité des services de mobilités
+* **Défi 1** \- Évaluer l’impact des mobilités actives et de l’intermodalité  
+* **Défi 2** \- Aider les entreprises à décarboner leurs mobilités  
+* **Défi 3** \- Créer des outils en faveur des mobilités durables pour les collectivités franciliennes  
+* **Défi 4** \- Améliorer le confort et l’accessibilité dans les services de mobilités
 
-Pour chaque défi, les Participant·e·s pourront explorer des pistes de développement pour une **IA frugale qui limite la consommation de ressources techniques à la juste nécessité du projet proposé**. La sobriété dans l’usage des données et des modèles peut être au service de la créativité dans les solutions proposées.
+Pour chaque défi, les participant·e·s pourront explorer des pistes suggérées dans les descriptions ou bien explorer leurs propres voies tout en restant dans le thème du défi choisi. La sobriété dans l’usage des données et des modèles peut être au service de la créativité dans les solutions proposées. 
 
 ### **1.4 Types de projets attendus**
 
-Les Participant·e·s du Hackathon produiront des prototypes fonctionnels qui mobilisent la donnée au service d’une mobilité responsable et qui pourront être testés lors d’un demo day autour des quatre défis. Certains projets pourront être des bases de données ou briques technologiques (API) utiles au futur développement. 
+Les participant·e·s du hackathon pourront produire des maquettes d’applications et de services, des tableaux de bord, des outils de suivi, des modèles de prévision, etc qui mobilisent la donnée au service d’une mobilité responsable et qui pourront être présentés lors de la phase de restitution devant le jury. Certains projets pourront être des bases de données ou briques technologiques (API) utiles à de futurs développements. 
 
 Les projets seront remis sous la forme de livrables (voir 5.3 Modalités de soumission du projet et livrables).
 
 ### **1.5 Les dates du Hackathon Mobilités 2025**
 
 1. Les [pré-inscriptions](https://airtable.com/appoPX9ywWeRtE2ZX/shrJS4fhjZWjWlXD6?ref=prim.iledefrance-mobilites.fr) sont ouvertes **du 1er juillet 2025 au 1er novembre 2025** ;  
-2. **Mardi 14 octobre de 12h à 13h** \- \[En ligne\] Webinaire n°1 \- Présentation du hackathon Mobilités 2025  
-3. **Mardi 4 novembre de 12h à 13h** \- \[En ligne\] Webinaire n°2 \- Présentation des défis du Hackathon Mobilités 2025;  
-4. **Mercredi 12 novembre de 12h à 13h** \- Lancement en ligne \- Constitution des équipes du Hackathon Mobilités 2025\. Une heure de visio est prévue de 12h à 13h la veille du lancement en présentiel afin de pouvoir constituer les équipes en amont et d’avoir un maximum de temps de production dès le 13 novembre au matin.   
+2. **Mardi 14 octobre de 12h à 13h** \- \[En ligne\] Webinaire n°1 \- Présentation du Hackathon Mobilités 2025 et des défis  
+3. **Mardi 4 novembre de 12h à 13h** \- \[En ligne\] Webinaire n°2 \- Présentation des modalités pratiques et des données spécifiques au Hackathon Mobilités 2025  
+4. **Mercredi 12 novembre de 12h à 13h** \- Lancement en ligne \- Constitution des équipes du Hackathon Mobilités 2025   
 5. **Le hackathon se tient les 13 et 14 novembre 2025 en présentiel à Paris**, au premier étage du Pan Piper, 2-4 Imp. Lamier, 75011 Paris. 
 
 ## 2\. INSCRIPTIONS AU HACKATHON MOBILITÉS 2025
 
 ### **2.1 Modalités d’inscription**
 
-Le Hackathon Mobilités 2025 est ouvert à toute personne physique âgée de dix-huit ans minimum. Les personnes intéressées devront remplir [un formulaire de pré-inscription](https://airtable.com/appoPX9ywWeRtE2ZX/shrJS4fhjZWjWlXD6?ref=prim.iledefrance-mobilites.fr) en ligne prévu à cet effet. Les candidat·e·s  postulent individuellement, mais peuvent souhaiter participer en équipe.
+Le Hackathon Mobilités 2025 est ouvert à toute personne physique âgée de dix-huit ans minimum. Les personnes intéressées remplissent [un formulaire de pré-inscription](https://airtable.com/appoPX9ywWeRtE2ZX/shrJS4fhjZWjWlXD6?ref=prim.iledefrance-mobilites.fr) en ligne prévu à cet effet. Les candidat·e·s postulent individuellement, mais peuvent souhaiter participer en équipe.
 
 La clôture des inscriptions **aura lieu le 1er novembre 2025\.**
 
-La sélection des candidat·e·s  est faite par les Organisateurs, une confirmation d’inscription sera envoyée par courrier électronique à l’adresse mentionnée dans le formulaire d’’inscription par les candidat·e·s  sélectionnés.
+La sélection des candidat·e·s est faite par les Organisateurs, une confirmation d’inscription sera envoyée par courrier électronique à l’adresse mentionnée dans le formulaire d’inscription par les candidat·e·s.
 
 En validant leur inscription au Hackathon Mobilités 2025, les personnes intéressées acceptent de se conformer au présent règlement.
 
