@@ -125,8 +125,7 @@ Les principaux services proposés :
 | Jupyter python | IDE Jupyter avec les libraires data python pré-installées | Environnements de développement |dbl-hackathon : une instance par équipe|
 | VSCode python | Visual Studio Code avec les libraire data python pré-installées | Environnements de développement |dbl-hackathon : une instance par équipe|
 | Cloudbeaver | pour vos bases de données | Base de données |espace personnel (non partageable)|
-| OpenWebIU | une interface web "no-code" (ou pas) pour créer des chatbots personnalisés à partir d'une grande diversité de modèles de langage | Spécifique au Hackathon |dbl-hackathon : une instance par équipe ([tutoriel](lien)) |
-| Elastic | pour vos bases vectorielles et stockages de documents JSON | Base de données |dbl-hackathon : une instance commune à toutes les équipes|
+| Metabase | pour analyser et visualiser vos données | Dataviz |dbl-hackathon : une instance commune à toutes les équipes|
 
 #### Les ressources à votre disposition
 
@@ -138,9 +137,8 @@ Vous disposez d'un certain nombre de ressources. **Le but n'est pas de toutes le
 |-----------|-------------|------|
 | Les ressources IA | Accès aux ressources et modèles IA | [Lien secrets Onyxia](lien) |
 | Les données et documents | Liste de toutes les données et documents | [lien](https://airtable.com/appGp6Hwf0NrmXQ9L/shrnmQYmL0lDKgS76/tblC8dlSqeplzyg0A) |
-| Le notebooks de prise en main des données | Notebook pour prendre en main certains jeux de données | [lien](lien) |
-| Les snippets de code | Snippets de code pour rapidement prendre en main les APIs | [lien](lien) |
-| Les exemples (notebook) | Exemple de RAG et guide de stockage des données | [lien RAG](lien), [lien base vectorielle](/lien) et [lien guide stockage](lien) |
+| Le notebooks de prise en main des données | Notebook pour prendre en main certains jeux de données | [lien](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/tree/main/notebooks) |
+| Les snippets de code | Snippets de code pour rapidement prendre en main les APIs | [lien](/notebooks/HM2025 - Snippets de code.ipynb) |
 
 ##### Les données et documents
 
@@ -152,18 +150,18 @@ Ils sont accessibles [depuis ce lien](https://airtable.com/appGp6Hwf0NrmXQ9L/shr
 
 ##### Les notebook de prise en main des données
 
-Certains jeux de données ont été spécialement mis à disposition pour le Hackathon, et se trouvent dans les fichiers partagés sur Onyxia. Les équipes d'île-de-France Mobilités ont [partagé dans un notebook](lien) quelques fonctions pour prendre en main les données. Le notebook présente aussi quelques données intéressantes.
+Certains jeux de données ont été spécialement mis à disposition pour le Hackathon, et se trouvent dans les fichiers partagés sur Onyxia. Les équipes d'île-de-France Mobilités ont [partagé dans un notebook](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/tree/main/notebooks) quelques fonctions pour prendre en main les données. Le notebook présente aussi quelques données intéressantes.
 
 ##### Les snippets de code
 
-Ces **[snippets de code](lien)** vont vous permettre de gagner du temps dans la prise en main des ressources à disposition et de l'écosystème data d'île-de-France Mobilités. Par exemple, pour réaliser les appels PRIM d'Île-de-France Mobilités.
+Ces **[snippets de code](/notebooks/HM2025 - Snippets de code.ipynb)** vont vous permettre de gagner du temps dans la prise en main des ressources à disposition et de l'écosystème data d'île-de-France Mobilités. Par exemple, pour réaliser les appels PRIM d'Île-de-France Mobilités.
 
 #### Les exemples (notebook)
 Les équipes d'Île-de-France Mobilités ont préparé un [**exemple de Retrieval Augemented Generation RAG**](lien), avec un exemple de création et d'[**alimentation d'une base vectorielle**](lien), qui permet d'enrichir les connaissances d'un modèle de langage avec des données spécifiques. 
 
-Vous pouvez **lancer les notebooks exemple directement sur Onyxia**. Pour cela, **assurez vous d'être connecté·e·s sur Onyxia et d'être sur le projet "dlb-hackathon"**, puis lancez un service type VSCODE-Python et importez-y les [notebook exemples](lien) du dossier notebook de ce projet github.
+Vous pouvez **lancer les notebooks exemple directement sur Onyxia**. Pour cela, **assurez vous d'être connecté·e·s sur Onyxia et d'être sur le projet "dlb-hackathon"**, puis lancez un service type VSCODE-Python et importez-y les [notebook exemples](/notebooks/HM2025 - Snippets de code.ipynb) du dossier notebook de ce projet github.
 
-Vous avez également à disposition un [guide d'utilisation du stockage des données sur Onyxia](lien) (S3 MinIO, DuckDB, etc...).
+Vous avez également à disposition un [guide d'utilisation du stockage des données sur Onyxia](/notebooks/HM2025 - Snippets de code.ipynb) (S3 MinIO, DuckDB, etc...).
 
 #### La documentation
 Comme d'habitude, lisez les documentations en ligne des services utilisés !
