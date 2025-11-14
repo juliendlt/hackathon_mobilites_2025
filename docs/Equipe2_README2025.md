@@ -104,8 +104,6 @@ Un moteur de recommandations d'actions automatiques pourrait être ajouté et pr
 
 Dans un second temps, en pouvant coupler cet outil à une recherche d'itinéraire, nos usagers cibles pourraient aussi être des personnes en situation de handicap (mental, moteur, visuel, auditif, dû à l'âge) pour leur permettre de trouver des **itinéraires réellement accessibles** (avec des équipements fonctionnels à l'instant t et le parcours dans la station extrait de Metro connexion).
 
-## Implémentation technique
-TODO Julien
 
 ## Installation et utilisation
 
